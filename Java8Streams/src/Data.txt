@@ -1,0 +1,8 @@
+﻿ID,NAME,AGE,SEX,LOCATION,SALARY
+10,Harish,24,Male,Texas,2000
+11,Sateesh,54,Male,California,10000
+12,Suresh,20,Male,Virgina,5000
+13,Vamshi,15,Male,Connecticut,3000
+14,Radha,19,Female,Alabama,4500
+15,Geetha,40,Female,Arkansas,8000
+16,Shanti,10,Female,Florida,7000
